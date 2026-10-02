@@ -47,5 +47,3 @@ for chunk in chunks:
 
 print("\nEncrypted blocks:")
 print(cipher_blocks)
-print("\nEncrypted blocks:")
-print(cipher_blocks)

@@ -11,8 +11,8 @@ A small Python implementation of RSA encryption and decryption, built to explore
 ## How to run
 Requires Python 3.8 or later. No external libraries.
 
-    python rsa_encrypt.py
-    python rsa_decrypt.py
+    python RSA encryption.py
+    python RSA decryption.py
 
 ## Example
 Encrypting "hello world" produces a list of ciphertext blocks, which the decryption script turns back into "hello world".
